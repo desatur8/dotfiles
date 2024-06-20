@@ -109,7 +109,7 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
+				"title": "Home",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -136,7 +136,7 @@
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "Media",
 				"color": "magenta",
 				"align": "left",
 				"links": [
@@ -190,7 +190,7 @@
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Work",
 				"color": "red",
 				"align": "left",
 				"links": [
